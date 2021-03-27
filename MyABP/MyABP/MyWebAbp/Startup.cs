@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Volo.Abp;
 
 namespace MyWebAbp
 {
@@ -17,7 +18,7 @@ namespace MyWebAbp
         public void ConfigureServices(IServiceCollection services)
         {
             //注入apb模块 相关服务 
-            services.AddApplication<AppModule>();
+            services.AddApplication<AppModule>(options => options.UseAutofac());//abp中使用autofac 
 
         }
 

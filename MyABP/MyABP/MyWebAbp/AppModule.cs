@@ -5,9 +5,12 @@ using Volo.Abp.AspNetCore.Mvc;
 using Volo.Abp.Modularity;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Volo.Abp.Autofac;
+
 namespace MyWebAbp
 {
     [DependsOn(typeof(AbpAspNetCoreMvcModule))]
+    [DependsOn(typeof(AbpAutofacModule))]
     public class AppModule:AbpModule
     {
         /// <summary>
