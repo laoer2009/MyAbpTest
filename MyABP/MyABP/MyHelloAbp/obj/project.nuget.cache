@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSrA2eYatX1aqQoNaLyk22rCuMrF0rI7VFRYs/Swye03gzWC2KAiFyxMdnS3XRWyjp3udnrI1gA+RhJ5vXN+HA==",
+  "dgSpecHash": "zkJQd1b+C5uDBNzPrUh6Z5rZXuWFR64MIc76OYON/AKDSm3SDhb3LH/qH3cSZctdpxaVvhS95/Vzrp/g6GcqIA==",
   "success": true,
-  "projectFilePath": "F:\\软谋教育\\架构班\\02期\\code\\MyABP\\MyABP\\MyHelloAbp\\MyHelloAbp.csproj",
+  "projectFilePath": "E:\\gitUse\\MyAbpTest\\MyABP\\MyABP\\MyHelloAbp\\MyHelloAbp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThinkPad\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\autofac.extras.dynamicproxy\\5.0.0\\autofac.extras.dynamicproxy.5.0.0.nupkg.sha512",

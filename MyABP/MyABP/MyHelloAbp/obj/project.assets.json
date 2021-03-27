@@ -6269,11 +6269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\软谋教育\\架构班\\02期\\code\\MyABP\\MyABP\\MyHelloAbp\\MyHelloAbp.csproj",
+      "projectUniqueName": "E:\\gitUse\\MyAbpTest\\MyABP\\MyABP\\MyHelloAbp\\MyHelloAbp.csproj",
       "projectName": "MyHelloAbp",
-      "projectPath": "F:\\软谋教育\\架构班\\02期\\code\\MyABP\\MyABP\\MyHelloAbp\\MyHelloAbp.csproj",
+      "projectPath": "E:\\gitUse\\MyAbpTest\\MyABP\\MyABP\\MyHelloAbp\\MyHelloAbp.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "F:\\软谋教育\\架构班\\02期\\code\\MyABP\\MyABP\\MyHelloAbp\\obj\\",
+      "outputPath": "E:\\gitUse\\MyAbpTest\\MyABP\\MyABP\\MyHelloAbp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

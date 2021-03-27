@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6loaRMLnRSrmTYFh0azsEAo4YwIV0iZRe1SBg/pgIXg3SMe2hb5GANeE9pD50/74Wn24T8dTXCSBtOMnik/alw==",
+  "dgSpecHash": "+4OZVa6xVuUE/Ml//8no4vra62V6Z4QsvnMATtKzb4UTsRm7lx+0V//jFu32yc77fIfwgBQxjsWiAXlaDTDL0A==",
   "success": true,
-  "projectFilePath": "F:\\软谋教育\\架构班\\02期\\code\\MyABP\\MyABP\\MyWebAbp\\MyWebAbp.csproj",
+  "projectFilePath": "E:\\gitUse\\MyAbpTest\\MyABP\\MyABP\\MyWebAbp\\MyWebAbp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThinkPad\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\autofac.extras.dynamicproxy\\5.0.0\\autofac.extras.dynamicproxy.5.0.0.nupkg.sha512",
