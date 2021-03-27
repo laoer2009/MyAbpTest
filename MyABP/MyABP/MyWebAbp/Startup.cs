@@ -24,7 +24,7 @@ namespace MyWebAbp
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.InitializeApplication();
+            app.InitializeApplication();//执行 abpmodel里的 初始化方法  OnApplicationInitialization
         } 
     }
 }
